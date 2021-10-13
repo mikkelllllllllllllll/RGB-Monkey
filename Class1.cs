@@ -8,7 +8,7 @@ using UnityEngine;
 namespace RGBMonke
 {
 	[BepInPlugin("org.Sheriff.gorillatag.rgbmonke", "RGB Monke", "1.0.0")]
-	public class RainbowMonke : BaseUnityPlugin
+	public class RGBMonke : BaseUnityPlugin
 	{
 		public static ConfigEntry<bool> enabled;
 		public static ConfigEntry<bool> randomColor;
